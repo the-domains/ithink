@@ -1,0 +1,14 @@
+layout_spectrum: 0.11439923592843115
+typography_spectrum: 0.6389159623067826
+color:
+  brandStrength: 0.41212420584633946
+  lightness: 0.5078085681889206
+  saturation: 0.6976403028238565
+  rhythmicContrast: 0.441711338236928
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: iThink
